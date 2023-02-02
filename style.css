@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 800px;
+    flex-direction: column;
+}
+table{
+    
+    border-spacing: 0;
+}
+td{
+    padding: 10px 20px;
+    border: 1px solid #000000;
+    text-align: center;
+}
